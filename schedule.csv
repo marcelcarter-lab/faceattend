@@ -1,0 +1,8 @@
+Day,SessionName,StartTime,EndTime,BreakStart,BreakEnd
+Monday,complexite,08:00,12:0,10:00,10:15
+Monday,Arte_et_culture_general,14:00,16:00,
+Tuesday,COO,08:00,12:00,10:00,10:15
+Tuesday,Langues,14:00,18:00,16:00,16:15
+Wednesday,Resaux,08:00,13:20,10:00,10:15
+Thursday,Math_ingenieur,08:00,12:00,10:00,10:15
+Friday,Securite,08:00,12:00,10:00,10:15
